@@ -23,7 +23,7 @@ Customer churn poses a significant challenge for telecom companies, impacting bo
 
 **Scikit-learn & XGBoost:** For building and evaluating machine learning models
 
-**Imbalanced-learn (SMOTE): **To handle class imbalance
+**Imbalanced-learn (SMOTE):** To handle class imbalance
 
 **Results:**
 
